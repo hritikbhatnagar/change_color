@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+   background-color: black;
+}
+
+button{
+    width:100px;
+    height:70px;
+    margin:6px;
+    border:2px solid greenyellow;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    cursor: pointer;
+}
+.main{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
